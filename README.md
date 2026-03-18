@@ -8,21 +8,21 @@ Busco evoluir continuamente como desenvolvedor **Full Stack**, unindo fundamento
 
 ---
 
-## ⭐ Estatísticas sociais
+## ⭐ Estatísticas sociais (Atualizam automaticamente)
 
-![Stars](https://img.shields.io/badge/⭐_Estrelas-0-green)
-![Followers](https://img.shields.io/badge/👥_Seguidores-0-blue)
+![Stars](https://img.shields.io/github/stars/luan-k10?style=for-the-badge&color=yellow)
+![Followers](https://img.shields.io/github/followers/luan-k10?style=for-the-badge&color=blue)
 
 ---
 
 ## 🛠️ Linguagens e Tecnologias
 
-<p align="left" style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55"/>
 </p>
 
 ---
@@ -30,7 +30,7 @@ Busco evoluir continuamente como desenvolvedor **Full Stack**, unindo fundamento
 ## 📊 Estatísticas do GitHub
 
 ### 🔹 Estatísticas gerais
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan-k10&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=luan-k10&show_icons=true&theme=tokyonight)
 
 ### 🔹 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-k10&layout=compact&theme=tokyonight)
@@ -48,4 +48,3 @@ Busco evoluir continuamente como desenvolvedor **Full Stack**, unindo fundamento
 ---
 
 ✨ *Obrigado por visitar meu perfil! Sempre aberto a novas conexões e oportunidades.* 🚀
-``
