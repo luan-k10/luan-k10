@@ -3,7 +3,7 @@
 ### Desenvolvedor **Full Stack**
 
 Me chamo **Luan Kairo de Souza das Neves**, tenho 22 anos e sou natural do Espírito Santo.  
-Atualmente sou graduando em **Engenharia da Computação** na Multivix.  
+Atualmente estou graduando em **Engenharia da Computação** na Multivix.  
 Busco evoluir continuamente como desenvolvedor **Full Stack**, unindo fundamentos da engenharia com as melhores práticas modernas de software.
 
 ---
