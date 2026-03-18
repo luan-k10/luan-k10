@@ -37,10 +37,6 @@ Busco evoluir continuamente como desenvolvedor **Full Stack**, unindo fundamento
 
 ---
 
-## 📂 Tecnologias (por uso no GitHub)
-> Esta seção será preenchida automaticamente conforme você fizer commits em cada linguagem.
-
----
 
 ## 📫 Contato
 
