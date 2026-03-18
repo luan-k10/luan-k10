@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130"/>
-</p>
-
 # 👨‍💻 Luan Kairo de Souza das Neves
 
 ### Desenvolvedor **Full Stack**
