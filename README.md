@@ -42,8 +42,6 @@ Busco evoluir continuamente como desenvolvedor **Full Stack**, unindo fundamento
 
 📧 **Email:** luankairo07@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/luankairo  
-🐙 **GitHub:** https://github.com/luan-k10  
-📸 **Instagram:** @luankairo  
 
 ---
 
