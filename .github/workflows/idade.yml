@@ -1,0 +1,32 @@
+name: Atualizar idade
+
+on:
+  schedule:
+    - cron: "0 3 13 5 *" # 13/05 à 00:00 (horário de Brasília)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  idade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calcular idade
+        run: |
+          nasc=2003-05-13
+          hoje=$(TZ=America/Sao_Paulo date +%F)
+          idade=$(( 10#${hoje:0:4} - 10#${nasc:0:4} ))
+          if [[ "${hoje:5}" < "${nasc:5}" ]]; then idade=$((idade - 1)); fi
+          sed -i -E "s#<!--idade-->[0-9]+<!--/idade-->#<!--idade-->${idade}<!--/idade-->#" README.md
+          echo "Idade: $idade"
+
+      - name: Commit
+        run: |
+          if git diff --quiet; then echo "Sem mudanças"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Atualiza idade no README"
+          git push

@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/luankairo/"><img src="https://img.shields.io/badge/LinkedIn-luankairo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:luankairo07@gmail.com"><img src="https://img.shields.io/badge/Email-luankairo07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/github/followers/luan-k10?style=for-the-badge&logo=github&label=Seguidores&color=70a5fd" alt="Seguidores"/>
   <img src="https://img.shields.io/github/stars/luan-k10?style=for-the-badge&label=Estrelas&color=e0af68" alt="Estrelas"/>
@@ -16,7 +17,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Me chamo **Luan Kairo de Souza das Neves**, tenho 22 anos e sou natural do **Espírito Santo**.
+Me chamo **Luan Kairo de Souza das Neves**, tenho <!--idade-->23<!--/idade--> anos e sou natural do **Espírito Santo**.
 
 - 🎓 Graduando em **Engenharia da Computação** na Multivix
 - 🏭 Estagiário na **ArcelorMittal Tubarão**
