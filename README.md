@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://luan-k10.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-luan--k10.github.io-6E1423?style=for-the-badge&logo=astro&logoColor=white" alt="Portf?lio"/></a>
+  <a href="https://luan-k10.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-luan--k10.github.io-6E1423?style=for-the-badge&logo=astro&logoColor=white" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/luankairo/"><img src="https://img.shields.io/badge/LinkedIn-luankairo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:luankairo07@gmail.com"><img src="https://img.shields.io/badge/Email-luankairo07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/github/followers/luan-k10?style=for-the-badge&logo=github&label=Seguidores&color=6E1423" alt="Seguidores"/>
@@ -16,20 +16,20 @@
 
 ---
 
-## ????? Sobre mim
+## 👨‍💻 Sobre mim
 
-Me chamo **Luan Kairo de Souza das Neves**, tenho <!--idade-->23<!--/idade--> anos e sou natural do **Esp?rito Santo**.
+Me chamo **Luan Kairo de Souza das Neves**, tenho <!--idade-->23<!--/idade--> anos e sou natural do **Espírito Santo**.
 
-- ?? Graduando em **Engenharia da Computa??o** na Multivix (conclus?o prevista em dez/2027)
-- ?? Estagi?rio em sistemas de automa??o de **N?vel 2** na **ArcelorMittal Tubar?o**: investigo falhas, corrijo bugs em **Java** e escrevo consultas **SQL Oracle** para relat?rios e indicadores
-- ?? Experi?ncia com **Databricks** e conhecimentos em **Power BI**
-- ?? Gosto de unir desenvolvimento de software e dados para resolver problemas reais de processo
+- 🎓 Graduando em **Engenharia da Computação** na Multivix (conclusão prevista em dez/2027)
+- 🏭 Estagiário em sistemas de automação de **Nível 2** na **ArcelorMittal Tubarão**: investigo falhas, corrijo bugs em **Java** e escrevo consultas **SQL Oracle** para relatórios e indicadores
+- 📊 Experiência com **Databricks** e conhecimentos em **Power BI**
+- 🌱 Gosto de unir desenvolvimento de software e dados para resolver problemas reais de processo
 
-?? Conhe?a meus projetos, experi?ncia e curr?culo no meu **[portf?lio](https://luan-k10.github.io)**.
+🌐 Conheça meus projetos, experiência e currículo no meu **[portfólio](https://luan-k10.github.io)**.
 
 ---
 
-## ??? Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/>&nbsp;
@@ -56,39 +56,39 @@ Me chamo **Luan Kairo de Souza das Neves**, tenho <!--idade-->23<!--/idade--> an
 
 ---
 
-## ?? Projetos em destaque
+## 🚀 Projetos em destaque
 
-| Projeto | Descri??o | Tecnologias |
+| Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [**aplicativo-analise-de-risco**](https://github.com/luan-k10/aplicativo-analise-de-risco) | Software de an?lise de risco digital com gest?o de equipes, autoriza??o de entrada/sa?da e escolha de riscos, seguindo as NRs. Projeto de Extens?o (PEI) ? ?? **Men??o Honrosa** na IV Mostra de PEI (2025/1) | Angular, TypeScript, SSR |
-| [**valeime-site**](https://github.com/luan-k10/valeime-site) ? [?? site](https://valeime.netlify.app) | Site de sugest?es do perfil cat?lico [@valeime.catolico](https://instagram.com/valeime.catolico). As respostas v?o para uma planilha do Google Sheets | HTML, JavaScript, Apps Script |
-| [**luan-k10.github.io**](https://github.com/luan-k10/luan-k10.github.io) ? [?? site](https://luan-k10.github.io) | Meu portf?lio pessoal, com projetos, carreira, certificados e curr?culo, publicado no GitHub Pages | Astro, TypeScript, CSS |
+| [**aplicativo-analise-de-risco**](https://github.com/luan-k10/aplicativo-analise-de-risco) | Software de análise de risco digital com gestão de equipes, autorização de entrada/saída e escolha de riscos, seguindo as NRs. Projeto de Extensão (PEI) · 🏅 **Menção Honrosa** na IV Mostra de PEI (2025/1) | Angular, TypeScript, SSR |
+| [**valeime-site**](https://github.com/luan-k10/valeime-site) · [🌐 site](https://valeime.netlify.app) | Site de sugestões do perfil católico [@valeime.catolico](https://instagram.com/valeime.catolico). As respostas vão para uma planilha do Google Sheets | HTML, JavaScript, Apps Script |
+| [**luan-k10.github.io**](https://github.com/luan-k10/luan-k10.github.io) · [🌐 site](https://luan-k10.github.io) | Meu portfólio pessoal, com projetos, carreira, certificados e currículo, publicado no GitHub Pages | Astro, TypeScript, CSS |
 
 ---
 
-## ?? Pr?mios e certificados
+## 🏆 Prêmios e certificados
 
-- ?? **Men??o Honrosa**: IV Mostra de Pr?ticas de Extens?o Interdisciplinar, Multivix Serra (2025/1)
-- ?? [Programa??o em Microsoft C# do b?sico ao avan?ado](https://ude.my/UC-8315b01f-1154-4c67-a305-4f94e823768d) (Udemy, 20h)
-- ?? [Curso Completo de Banco de Dados e SQL para Iniciantes](https://ude.my/UC-6fefdb99-f640-4022-aac7-8bf9e1266286) (Udemy, 5h)
-- ?? [Algoritmos e L?gica de Programa??o do b?sico ao avan?ado](https://ude.my/UC-749dc3c9-781f-4d4c-a777-b195f740fb63) (Udemy, 33,5h)
+- 🏅 **Menção Honrosa**: IV Mostra de Práticas de Extensão Interdisciplinar, Multivix Serra (2025/1)
+- 📜 [Programação em Microsoft C# do básico ao avançado](https://ude.my/UC-8315b01f-1154-4c67-a305-4f94e823768d) (Udemy, 20h)
+- 📜 [Curso Completo de Banco de Dados e SQL para Iniciantes](https://ude.my/UC-6fefdb99-f640-4022-aac7-8bf9e1266286) (Udemy, 5h)
+- 📜 [Algoritmos e Lógica de Programação do básico ao avançado](https://ude.my/UC-749dc3c9-781f-4d4c-a777-b195f740fb63) (Udemy, 33,5h)
 
 ---
 
-## ?? Atividade no GitHub
+## 📊 Atividade no GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luan-k10&background=1A0A0E&ring=E8899A&fire=E8899A&currStreakLabel=E8899A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9A0A8&stroke=6E1423&hide_border=true&locale=pt_BR&disable_animations=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luan-k10&bg_color=1A0A0E&color=E8899A&line=A8324A&point=FFFFFF&area=true&area_color=6E1423&hide_border=true" alt="Gr?fico de contribui??es"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luan-k10&bg_color=1A0A0E&color=E8899A&line=A8324A&point=FFFFFF&area=true&area_color=6E1423&hide_border=true" alt="Gráfico de contribuições"/>
 </p>
 
 ---
 
 <p align="center">
-  ? <i>Obrigado por visitar meu perfil! Estou sempre aberto a novas conex?es e oportunidades.</i> ??
+  ✨ <i>Obrigado por visitar meu perfil! Estou sempre aberto a novas conexões e oportunidades.</i> 🚀
 </p>
 
 <p align="center">
