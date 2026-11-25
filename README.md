@@ -62,6 +62,7 @@ Me chamo **Luan Kairo de Souza das Neves**, tenho <!--idade-->23<!--/idade--> an
 | --- | --- | --- |
 | [**aplicativo-analise-de-risco**](https://github.com/luan-k10/aplicativo-analise-de-risco) | Software de análise de risco digital com gestão de equipes, autorização de entrada/saída e escolha de riscos, seguindo as NRs. Projeto de Extensão (PEI) · 🏅 **Menção Honrosa** na IV Mostra de PEI (2025/1) | Angular, TypeScript, SSR |
 | [**valeime-site**](https://github.com/luan-k10/valeime-site) · [🌐 site](https://valeime.netlify.app) | Site de sugestões do perfil católico [@valeime.catolico](https://instagram.com/valeime.catolico). As respostas vão para uma planilha do Google Sheets | HTML, JavaScript, Apps Script |
+| [**estudos**](https://github.com/luan-k10/estudos) · [🌐 site](https://luan-k10.github.io/estudos/) | Guia de estudos da faculdade: central por áreas que reúne sites interativos de cada matéria ([Programação Distribuída e Paralela](https://github.com/luan-k10/estudo-programacao-distribuida) e [Avaliação e Desempenho de Sistemas](https://github.com/luan-k10/estudo-avaliacao-desempenho)), com resumos, quiz, simulado, flashcards e laboratório. O progresso fica salvo no navegador | HTML, CSS, JavaScript |
 | [**luan-k10.github.io**](https://github.com/luan-k10/luan-k10.github.io) · [🌐 site](https://luan-k10.github.io) | Meu portfólio pessoal, com projetos, carreira, certificados e currículo, publicado no GitHub Pages | Astro, TypeScript, CSS |
 
 ---
